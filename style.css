@@ -3,7 +3,7 @@
     margin: 0;
 }
 .body{
-    background: url("https://drive.google.com/file/d/1HukgboRy4SuKPjN0nN-0MpdKU3YHp8fl/view?usp=sharing");
+    background: url("/bg.jpg");
     min-height: 100vh;
     background-size: 100vw 100vh; /* vh is view port height */
     background-repeat: no-repeat;  
